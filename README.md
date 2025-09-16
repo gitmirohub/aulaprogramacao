@@ -1,2 +1,4 @@
 # aulaprogramacao
-meu primeiro repositório ainda sou leigo 
+## professor - Pablo Ramon
+### UC - Programação de Solução Computacionais
+Meu primeiro Repositório Ainda sou Leigo 
